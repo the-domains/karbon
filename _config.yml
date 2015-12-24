@@ -1,0 +1,28 @@
+name: Karbon
+favicon: null
+layout_spectrum: 0.9148750551976264
+typography_spectrum: 0.5552255662623793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8186079261358827
+  lightness: 0.4968557076063007
+  saturation: 0.011708742938935757
+  rhythmicContrast: 0.9964357973076403
+purpose: []
