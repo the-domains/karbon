@@ -1,7 +1,7 @@
 name: Karbon
 favicon: null
-layout_spectrum: 0.9148750551976264
-typography_spectrum: 0.5552255662623793
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0.8186079261358827
   lightness: 0.4968557076063007
-  saturation: 0.011708742938935757
+  saturation: 0.5
   rhythmicContrast: 0.9964357973076403
 purpose: []
